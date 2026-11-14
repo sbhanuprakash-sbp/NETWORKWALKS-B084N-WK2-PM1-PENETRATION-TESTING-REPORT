@@ -38,7 +38,7 @@
 | **Operating System** | Kali Linux |
 | **Phases Covered** | Phase 1 – Footprinting & Reconnaissance |
 
-> **Authorization note:** The sample report states that its author had written permission. That permission statement cannot be assumed to apply to this project. Confirm your own authorization before stating that permission was secured or publishing target-specific findings. Only perform testing within the scope approved by the domain owner.
+> **Authorization note:** The Report states that its author had written permission. That permission statement cannot be assumed to apply to this project. Confirm your own authorization before stating that permission was secured or publishing target-specific findings. Only perform testing within the scope approved by the domain owner.
 
 ## 1. Introduction
 
