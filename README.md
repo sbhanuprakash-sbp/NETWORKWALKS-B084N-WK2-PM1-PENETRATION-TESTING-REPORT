@@ -95,7 +95,7 @@ whois networkwalks.com
 
 **Screenshot / Evidence:**
 
-![WHOIS command output](screenshots/WHOIS-result.png)
+![WHOIS command output](WHOIS-result.png)
 
 ---
 
@@ -125,7 +125,7 @@ whatweb networkwalks.com
 
 **Screenshot / Evidence:**
 
-![WhatWeb command output](screenshots/whatweb-result.png)
+![WhatWeb command output](whatweb-result.png)
 
 ---
 
@@ -150,7 +150,7 @@ nslookup networkwalks.com
 
 **Screenshot / Evidence:**
 
-![nslookup command output](screenshots/nslookup-result.png)
+![nslookup command output](nslookup-result.png)
 
 ---
 
@@ -178,7 +178,7 @@ curl -I https://networkwalks.com
 
 **Screenshot / Evidence:**
 
-![curl command output](screenshots/curl-result.png)
+![curl command output](curl-result.png)
 
 ---
 
@@ -202,7 +202,7 @@ wafw00f networkwalks.com
 
 **Screenshot / Evidence:**
 
-![wafw00f command output](screenshots/wafw00f-result.png)
+![wafw00f command output](wafw00f-result.png)
 
 ---
 
@@ -234,7 +234,7 @@ dnsrecon -d networkwalks.com
 
 **Screenshot / Evidence:**
 
-![DNSRecon command output](screenshots/dnsrecon-result.png)
+![DNSRecon command output](dnsrecon-result.png)
 
 ---
 
