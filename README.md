@@ -29,12 +29,12 @@
 |---|---|
 | **Project** | Week 2 – Project Module 1 |
 | **Project Title** | Footprinting & Reconnaissance Attacks Using Multiple Kali Tools |
-| **Intern Name** | [Your Name] |
-| **Program / Batch** | [Your NetworkWalks Batch] |
+| **Intern Name** | S BHANU PRAKASH |
+| **Program / Batch** | Batch B084N |
 | **Date of Activity** | 13 November 2026 |
 | **Module Completed** | W2-PM1 – Multiple Kali Tools |
 | **Client / Target** | `networkwalks.com` |
-| **Permission secured from client?** | [Confirm and enter Yes only if you have explicit permission] |
+| **Permission secured from client?** | Yes |
 | **Operating System** | Kali Linux |
 | **Phases Covered** | Phase 1 – Footprinting & Reconnaissance |
 
